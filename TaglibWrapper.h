@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <CoreAudio/CoreAudio.h>
+#import <CoreAudio/CoreAudioTypes.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
